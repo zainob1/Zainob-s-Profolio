@@ -1,5 +1,13 @@
 .firstHeading {
     color: #0000ff;
-    font-size: larger
+    font-size: 100px
 
+}
+.secondHeading {
+    color: orange;
+    font-size: 20px
+}
+.headshot{
+    width: 200px;
+    height: 300px;
 }
